@@ -1,0 +1,16 @@
+{
+  "name": "speech-to-emotion",
+  "version": "1.0.0",
+  "description": "Web speech API using nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Belgacem Hamdi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.2",
+    "sentiment": "^5.0.2"
+  }
+}
